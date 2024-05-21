@@ -1,0 +1,12 @@
+com.proyek3_mobile.proyek3_mobile.app-jetified-window-1.0.0-beta04-0 C:\Users\User\.gradle\caches\transforms-3\032f4dff274e516110d9363a9793a3e3\transformed\jetified-window-1.0.0-beta04\res
+com.proyek3_mobile.proyek3_mobile.app-jetified-window-java-1.0.0-beta04-1 C:\Users\User\.gradle\caches\transforms-3\142c24f2530665bb6deb4123ab140714\transformed\jetified-window-java-1.0.0-beta04\res
+com.proyek3_mobile.proyek3_mobile.app-core-1.6.0-2 C:\Users\User\.gradle\caches\transforms-3\2579a7de00054bf46a8dbc332552f622\transformed\core-1.6.0\res
+com.proyek3_mobile.proyek3_mobile.app-jetified-annotation-experimental-1.1.0-3 C:\Users\User\.gradle\caches\transforms-3\3f96ca76068ab400b494bc7d541ee256\transformed\jetified-annotation-experimental-1.1.0\res
+com.proyek3_mobile.proyek3_mobile.app-debug-4 D:\Ngebacode\Flutter\proyek3_mobile\android\app\src\debug\res
+com.proyek3_mobile.proyek3_mobile.app-main-5 D:\Ngebacode\Flutter\proyek3_mobile\android\app\src\main\res
+com.proyek3_mobile.proyek3_mobile.app-pngs-6 D:\Ngebacode\Flutter\proyek3_mobile\build\app\generated\res\pngs\debug
+com.proyek3_mobile.proyek3_mobile.app-resValues-7 D:\Ngebacode\Flutter\proyek3_mobile\build\app\generated\res\resValues\debug
+com.proyek3_mobile.proyek3_mobile.app-rs-8 D:\Ngebacode\Flutter\proyek3_mobile\build\app\generated\res\rs\debug
+com.proyek3_mobile.proyek3_mobile.app-mergeDebugResources-9 D:\Ngebacode\Flutter\proyek3_mobile\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.proyek3_mobile.proyek3_mobile.app-mergeDebugResources-10 D:\Ngebacode\Flutter\proyek3_mobile\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.proyek3_mobile.proyek3_mobile.app-merged_res-11 D:\Ngebacode\Flutter\proyek3_mobile\build\app\intermediates\merged_res\debug

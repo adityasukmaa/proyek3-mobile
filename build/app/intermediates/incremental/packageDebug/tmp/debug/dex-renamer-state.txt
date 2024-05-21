@@ -1,0 +1,4 @@
+#Tue May 21 05:56:27 WIB 2024
+base.0=D\:\\Ngebacode\\Flutter\\proyek3_mobile\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
